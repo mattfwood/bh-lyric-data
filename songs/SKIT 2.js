@@ -1,0 +1,1 @@
+module.exports = "[Jabari Manwa]\nWho are you?\n\n[Robert Ontenient]\nEh... Me llamo Roberto y... La verdad que no creo que nadie me recuerde después de matarme esta noche"

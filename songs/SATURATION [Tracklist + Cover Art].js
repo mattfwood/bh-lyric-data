@@ -1,0 +1,1 @@
+module.exports = "Tracklist1. HEAT\n2. GOLD\n3. STAR\n4. BOYS\n5. 2PAC\n6. SKIT 1\n7. FAKE\n8. BANK\n9. SKIT 2\n10. TRIP\n11. SWIM\n12. BUMP\n13. CASH\n14. SKIT 3\n15. MILK\n16. FACE\n17. WASTE\n\nCover Art\n\nBack Cover Art\n\n\"FACE\" Cover Art\"HEAT\" Cover Art\"GOLD\" Cover Art\"STAR\" Cover Art\"BOYS\" Cover Art"

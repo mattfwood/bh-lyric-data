@@ -1,0 +1,17 @@
+{
+  "name": "bh-data",
+  "version": "1.0.0",
+  "description": "MERLYN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Wood",
+  "license": "MIT",
+  "dependencies": {
+    "genius-api": "^0.4.1",
+    "lyricist": "^2.2.2",
+    "require-all": "^2.2.0",
+    "simple-oauth2": "^1.5.0"
+  }
+}

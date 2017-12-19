@@ -1,0 +1,1 @@
+module.exports = "[Hook: Bear//Face]\nBaby, I'm a star\nOr just a lost cause\nThe medium is cut, burning, bright\nI'm the light"
