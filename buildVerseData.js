@@ -23,7 +23,9 @@ function buildVerseData() {
     });
   });
 
-  fs.writeFileSync(`allVerseData.js`, `module.exports = ${JSON.stringify(verseData)}`, 'utf8');
+  // fs.writeFileSync(`allVerseData.js`, `module.exports = ${JSON.stringify(verseData)}`, 'utf8');
+
+  fs.writeFileSync(`allVerseData.json`, JSON.stringify(verseData), 'utf8');
 
   return verseData
 }
